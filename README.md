@@ -41,4 +41,4 @@ echo '
 ?>
 ```
 
-![screenshot](https://github.com/jstar88/phbars/blob/master/screen.PNG "screenshot")
+![screenshot](https://github.com/jstar88/phbars/blob/master/screen.PNG?raw=true "screenshot")
